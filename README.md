@@ -1,0 +1,17 @@
+# README
+
+This is my attempt at using [Kotlin](https://kotlinlang.org) to refactor the videostore code from Martin Fowler's 
+[Refactoring](https://martinfowler.com/books/refactoring.html).
+
+The code on the `master` branch is pre-refactoring and the code on the `solution` branch is post-refactoring.
+
+The purpose of this exercise was to become more familiar with Kotlin.
+
+## Requirements
+
+* Kotlin 1.0.6
+* Gradle 3.3
+
+## Usage
+
+`gradle test`
