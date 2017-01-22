@@ -7,6 +7,15 @@ The code on the `master` branch is pre-refactoring and the code on the `solution
 
 The purpose of this exercise was to become more familiar with Kotlin.
 
+Some of the highlights include:
+
+* Kotlin.
+* TDD approach using Spock.
+* Immutable classes.
+* Custom classes to avoid primitive obsession.
+* Fail fast parameter checking.
+* No external dependencies other than Spock for testing.
+
 ## Requirements
 
 * Kotlin 1.0.6
